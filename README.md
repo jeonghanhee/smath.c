@@ -4,6 +4,10 @@ Personally, this repository was created while studying math and is not intended 
 ### Functions
 - `distance2`
 - `distance3`
+- `normalize2`
+- `normalize3`
+- `copy_v2`
+- `copy_v3`
 
 ### Structure
 - `vector2`

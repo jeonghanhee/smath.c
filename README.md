@@ -1,4 +1,4 @@
-# cmath.c
+# smath.c
 Personally, this repository was created while studying math and is not intended for commercial use.
 
 ### Functions

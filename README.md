@@ -1,7 +1,10 @@
-# math-study
-A collection of trigonometry applications in C.
+# cmath.c
+Personally, this repository was created while studying math and is not intended for commercial use.
 
-## Added Files
+### Functions
+- `distance2`
+- `distance3`
 
-- `vector.c`  
-  - Implements `vector2` and `vector3`
+### Structure
+- `vector2`
+- `vector3`

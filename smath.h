@@ -3,5 +3,6 @@
 
 #include "vector.h"
 #include "distance.h"
+#include "normalize.h"
 
 #endif

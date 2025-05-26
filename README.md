@@ -8,6 +8,8 @@ Personally, this repository was created while studying math and is not intended 
 - `normalize3`
 - `copy_v2`
 - `copy_v3`
+- `magnitude2`
+- `magnitude3`
 
 ### Structure
 - `vector2`

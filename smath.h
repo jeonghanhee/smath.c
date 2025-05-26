@@ -4,5 +4,6 @@
 #include "vector.h"
 #include "distance.h"
 #include "normalize.h"
+#include "magnitude.h"
 
 #endif

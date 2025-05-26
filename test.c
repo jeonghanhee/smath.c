@@ -29,5 +29,8 @@ int main(void) {
     vector3 n3_pos = normalize3(pos3);
     printf("normalize3: (x=%f,y=%f,z=%f)\n", n3_pos.x, n3_pos.y, n3_pos.z);
 
+    printf("magnitude2: %f\n", magnitude2(pos2));
+    printf("magnitude3: %f\n", magnitude3(pos3));
+
     return 0;
 }
